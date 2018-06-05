@@ -1,7 +1,7 @@
 ## Deploying a sharded, production-ready MongoDB cluster with Ansible
 ------------------------------------------------------------------------------
 
-- Requires Ansible 1.2
+- Requires Ansible 2.4
 - Expects CentOS/RHEL 6 hosts
 
 ### A Primer
